@@ -60,7 +60,7 @@ export const ContactSection = () => {
                     href="mailto:hello@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    imashakoralagamage@gmail.com
+                    portfolio@gmail.com
                   </a>
                 </div>
               </div>
@@ -74,7 +74,7 @@ export const ContactSection = () => {
                     href="tel:+11234567890"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +94 (77)8959423
+                    +9400000000
                   </a>
                 </div>
               </div>
@@ -85,7 +85,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium"> Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
-                    Colombo, Sri Lanka
+                    Sri Lanka
                   </a>
                 </div>
               </div>
@@ -96,7 +96,7 @@ export const ContactSection = () => {
               <div className="flex space-x-4 justify-center">
                 <a href="#" target="_blank">
                   <Linkedin />
-                </a>                
+                </a>
                 <a href="#" target="_blank">
                   <Facebook />
                 </a>
@@ -125,7 +125,7 @@ export const ContactSection = () => {
                   name="name"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                  placeholder="Imasha  ..."
+                  placeholder="Name..."
                 />
               </div>
 
@@ -143,7 +143,7 @@ export const ContactSection = () => {
                   name="email"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                  placeholder="imashakoralagamage@gmail.com"
+                  placeholder="portfolio@gmail.com"
                 />
               </div>
 
